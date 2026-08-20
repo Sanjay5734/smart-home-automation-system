@@ -15,3 +15,10 @@ build/
 # OS files
 .DS_Store
 Thumbs.db
+
+//how to run this project 
+
+//g++ -std=c++17 main.cpp src/*.cpp -Iinclude -o smart_home
+//./smart_home
+//admin@smarthome.com
+//admin@123
