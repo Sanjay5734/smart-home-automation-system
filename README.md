@@ -433,18 +433,35 @@ g++ -std=c++17 main.cpp src/*.cpp -Iinclude -o smart_home
 
 ## 📸 Demo
 
-> Screenshots are optional and can be added under `docs/screenshots/` once available.
+## 📸 Demo
 
-```
-docs/screenshots/login.png
-docs/screenshots/admin-dashboard.png
-docs/screenshots/device-control.png
-docs/screenshots/Automation_System.png
-docs/screenshots/ManageUser.png
-docs/screenshots/Security_Status.png
-docs/screenshots/User-dashboard.png
+### 🔐 Login
 
-```
+![Login Screen](docs/screenshots/login.png)
+
+### 👨‍💼 Admin Dashboard
+
+![Admin Dashboard](docs/screenshots/admin-dashboard.png)
+
+### 🎛️ Device Control
+
+![Device Control](docs/screenshots/device-control.png)
+
+### 🤖 Automation System
+
+![Automation System](docs/screenshots/Automation_System.png)
+
+### 👥 User Management
+
+![Manage Users](docs/screenshots/ManageUser.png)
+
+### 🛡️ Security Status
+
+![Security Status](docs/screenshots/Security_Status.png)
+
+### 👤 User Dashboard
+
+![User Dashboard](docs/screenshots/User-dashboard.png)
 
 ---
 
@@ -497,26 +514,10 @@ The following are potential future directions and are **not** part of the curren
 
 `C++` `C++17` `OOP` `STL` `Inheritance` `Polymorphism` `Abstraction` `Encapsulation` `Composition` `Smart Pointers` `unordered_map` `System Design` `Input Validation` `Modular Architecture`
 
----
 
-## 💡 Interview Value
-
-This project demonstrates practical software engineering ability beyond syntax knowledge, including:
-
-- Object-oriented modeling of a real-world domain (smart home devices)
-- Separation of concerns across authentication, device control, automation, and security modules
-- Role-based access control design
-- Efficient data lookup using hash-based containers
-- Clear resource ownership via smart pointers
-- Modular, extensible architecture built from reusable components
-- Translating a real-world system into clean, maintainable C++ code
-
-This is presented as a well-structured learning and portfolio project — not a production-scale deployment.
-
----
 
 ## 👤 Author
 
 **Sanjay Kumar**
-B.Tech — Electrical Engineering
+B.Tech-Electrical Engineering
 IIT (ISM) Dhanbad
