@@ -439,7 +439,11 @@ g++ -std=c++17 main.cpp src/*.cpp -Iinclude -o smart_home
 docs/screenshots/login.png
 docs/screenshots/admin-dashboard.png
 docs/screenshots/device-control.png
-docs/screenshots/automation.png
+docs/screenshots/Automation_System.png
+docs/screenshots/ManageUser.png
+docs/screenshots/Security_Status.png
+docs/screenshots/User-dashboard.png
+
 ```
 
 ---
