@@ -1,0 +1,17 @@
+# Compiled executable
+smart_home
+smart_home.exe
+
+# Object files
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# Build directories
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
