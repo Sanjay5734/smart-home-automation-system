@@ -433,8 +433,6 @@ g++ -std=c++17 main.cpp src/*.cpp -Iinclude -o smart_home
 
 ## 📸 Demo
 
-## 📸 Demo
-
 ### 🔐 Login
 
 ![Login Screen](docs/screenshots/login.png)
